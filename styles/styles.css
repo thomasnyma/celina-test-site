@@ -39,6 +39,16 @@ header {
 
 main {
 	flex-grow: 1;
+	padding: 1rem 3.5rem;
+}
+
+main img {
+	width: 100%;
+}
+
+.stats-wrapper {
+	display: flex;
+	flex-direction: column;
 }
 
 footer {
