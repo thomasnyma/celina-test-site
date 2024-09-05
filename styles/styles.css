@@ -57,6 +57,8 @@ main {
 
 main img {
 	width: 100%;
+	margin: 2rem 0;
+	border-radius: 5px;
 }
 
 .stats-wrapper {
@@ -71,8 +73,4 @@ footer {
 	position: sticky;
 	bottom: 0;
 	box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
-}
-
-img {
-	margin: 2rem 0;
 }
